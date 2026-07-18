@@ -85,7 +85,7 @@ These aisles consistently contributed the largest share of sales revenue.
 
 All SQL scripts used in this project are available in the SQL Queries folder.
 
-## Business Recommendations
+## Recommendations
 
 Increase inventory for high-performing departments such as Personal Care and Snacks.
 Introduce targeted weekend promotions for high-demand products.
