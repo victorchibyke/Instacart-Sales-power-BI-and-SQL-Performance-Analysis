@@ -43,6 +43,8 @@ Develop an interactive Power BI dashboard supported by SQL analysis to provide a
 | 🔄 **Power Query** | Data Cleaning & Transformation |
 | 📈 **DAX** | KPI Calculations & Custom Measures |
 
+## All SQL scripts used in this project are available in the SQL Queries folder.
+
 ## Dashboard Insights
 
 <img width="1416" height="769" alt="instacart dashboard" src="https://github.com/user-attachments/assets/dd1dbfa5-c206-40ed-8c36-d010e1e2d708" />
@@ -83,7 +85,7 @@ Water Seltzer
 
 These aisles consistently contributed the largest share of sales revenue.
 
-All SQL scripts used in this project are available in the SQL Queries folder.
+
 
 ## Recommendations
 
